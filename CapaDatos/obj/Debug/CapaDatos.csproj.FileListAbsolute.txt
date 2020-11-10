@@ -1,0 +1,12 @@
+C:\Users\Soporte\Documents\ITLA\Programacion II\AGENDA\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Soporte\Documents\ITLA\Programacion II\AGENDA\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Soporte\Documents\ITLA\Programacion II\AGENDA\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Soporte\Documents\ITLA\Programacion II\AGENDA\CapaDatos\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Soporte\Documents\ITLA\Programacion II\AGENDA\CapaDatos\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Soporte\Documents\ITLA\Programacion II\AGENDA\CapaDatos\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Soporte\Documents\ITLA\Programacion II\AGENDA\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Soporte\Documents\ITLA\Programacion II\AGENDA\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Soporte\Documents\ITLA\Programacion II\AGENDA\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Documents\ITLA\Programacion II\AGENDA\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Soporte\Documents\ITLA\Programacion II\AGENDA\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Soporte\Documents\ITLA\Programacion II\AGENDA\CapaDatos\obj\Debug\CapaDatos.pdb
